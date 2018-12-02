@@ -1,6 +1,12 @@
-# React Boilerplate 
+# Fallout PnP
 
-React boilerplate using webpack 4
+## development
+install project
 
-development: ```$ yarn start```  
-build: ```$ yarn build ```
+```
+npm i
+```
+start development server 
+```
+npm run start
+```
